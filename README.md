@@ -22,7 +22,7 @@ To get KerFix up and running on your Linux system, follow these simple steps:
    Start by cloning the KerFix repository to your local system. You can do this by opening a terminal and running the following command:
 
    ```bash
-   git clone https://github.com/yourusername/kerfix.git
+   git clone https://github.com/FortuneIX/kerfix.git
 
    
 ## Acknowledgments
