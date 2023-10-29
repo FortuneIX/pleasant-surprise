@@ -10,7 +10,7 @@ KerFix is a utility designed to address and alleviate constant stuttering issues
 
 Before using KerFix, make sure you meet the following prerequisites:
 
-- An Ubuntu-based Linux distribution.
+- A Linux Distro.
 - Sudo privileges to execute system-level commands.
 
 ## How to Install
