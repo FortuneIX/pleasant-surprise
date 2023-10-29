@@ -2,7 +2,7 @@
 
 ## Description
 
-KerFix is a utility designed to address and alleviate constant stuttering issues related to GPU and CPU performance on Ubuntu-based Linux systems. This tool optimizes system performance by updating GPU drivers, installing microcode updates for Intel CPUs, and performing system updates.
+KerFix is a utility designed to address and alleviate constant stuttering issues related to GPU and CPU performance on Linux systems. This tool optimizes system performance by updating GPU drivers, installing microcode updates for Intel CPUs, and performing system updates.
 
 ## Getting Started
 
@@ -15,7 +15,7 @@ Before using KerFix, make sure you meet the following prerequisites:
 
 ## How to Install
 
-To get KerFix up and running on your Ubuntu-based Linux system, follow these simple steps:
+To get KerFix up and running on your Linux system, follow these simple steps:
 
 1. **Clone the Repository:**
 
