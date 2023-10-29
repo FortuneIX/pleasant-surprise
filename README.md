@@ -13,9 +13,24 @@ Before using KerFix, make sure you meet the following prerequisites:
 - An Ubuntu-based Linux distribution.
 - Sudo privileges to execute system-level commands.
 
-### Installation
+## How to Install
 
-1. Clone this repository to your local system.
+To get KerFix up and running on your Ubuntu-based Linux system, follow these simple steps:
+
+1. **Clone the Repository:**
+
+   Start by cloning the KerFix repository to your local system. You can do this by opening a terminal and running the following command:
 
    ```bash
-   git clone https://github.com/FortuneIX/kerfix.git
+   git clone https://github.com/yourusername/kerfix.git
+
+   
+## Acknowledgments
+
+We would like to express our gratitude to the following individuals and resources that have contributed to the development of KerFix:
+
+- [Contributors]: FortuneIX , Radif_xen
+
+- [Institution]: Adroit International School
+
+
